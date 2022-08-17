@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing prectice",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhuruvSingh/Testing-Practice.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dhuruv Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhuruvSingh/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/DhuruvSingh/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
